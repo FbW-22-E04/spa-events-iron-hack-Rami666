@@ -47,7 +47,7 @@ function App() {
     <div className="App">
       <Navbar></Navbar>
       <h1>React - state</h1>
-      <p>Count is: {details.clickCount}</p>
+      <p>count is: {details.clickCount}</p>
       <button onClick={clickHandler}> Click me </button>
 
       <User
